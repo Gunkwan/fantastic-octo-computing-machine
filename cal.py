@@ -12,5 +12,6 @@ def subc(num1, num2):
 def test():
 	print('Gun')
 	print('is')
+	print('so cute')
 
 cal(int(input()), int(input()))
