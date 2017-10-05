@@ -10,6 +10,7 @@ def subc(num1, num2):
 	return num1-num2
 
 def test():
-	print('asdf')
+	print('Gun')
+	print('is')
 
 cal(int(input()), int(input()))
