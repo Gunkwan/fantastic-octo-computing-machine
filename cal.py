@@ -9,11 +9,9 @@ def sumc(num1,num2):
 def subc(num1, num2):
 	return num1-num2
 
-def gjnry:
-	return gefe
-	
-print("eieiza55+")
-
-
+def test():
+	print('Gun')
+	print('is')
+	print('so cute')
 
 cal(int(input()), int(input()))
