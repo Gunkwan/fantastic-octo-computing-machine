@@ -1,17 +1,17 @@
 <?php
-$page = "main";
+$page = "aboutDSBA";
 ?>
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Main</title>
+    <title>About DSBA</title>
     <?php include "css.php"; ?>
 </head>
 <body>
     <?php include "nav.php"; ?>
 
     <div class="container">
-        <a>Main Page text</a>
+        <p>All about DSBA</p>
     </div>
 <?php include "js.php"; ?>
 
